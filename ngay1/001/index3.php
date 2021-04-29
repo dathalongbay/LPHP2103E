@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-    <?php 
+    <?php
     echo "chèn script php vào trong thẻ body";
     ?>
 
